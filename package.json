@@ -23,7 +23,7 @@
       "default": "./dist/autoregister.mjs"
     }
   },
-  "repository": "https://github.com/quill-mention/quill-mention.git",
+  "repository": "https://github.com/ardfar/quill-mention.git",
   "author": "Fredrik Sundqvist <fsundqvist@gmail.com>",
   "license": "MIT",
   "files": [
